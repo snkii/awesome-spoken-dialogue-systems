@@ -24,7 +24,7 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 
 Research papers and research-grade systems that **rethink dialogue systems from a speech-first perspective**.
 
-- **[Moshi: A Speech-First Conversational Agent](https://github.com/moshi-ai/moshi)**  
+- **[Moshi: A Speech-First Conversational Agent](https://github.com/kyutai-labs/moshi)**  
   Research system exploring real-time, speech-native dialogue where turn-taking, interruptions, and timing are modeled directly from audio.  
   Moshi is awesome because it demonstrates how **continuous speech interaction**, rather than text transcripts, can be the core representation for conversational agents.
 
