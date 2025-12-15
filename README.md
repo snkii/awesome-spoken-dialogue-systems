@@ -67,6 +67,8 @@ Research papers and research-grade systems that **rethink dialogue systems from 
 
 Benchmarks and evaluation frameworks designed to measure **spoken dialogue systems beyond text-only metrics**.
 
+- **[VoiceBench: Benchmarking LLM-Based Voice Assistants (arXiv'24)](https://arxiv.org/abs/2410.17196)**  
+  The first benchmark designed to provide a multi-faceted evaluation of LLM-based voice assistants.
 - **[SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words (NeurIPS'24)](https://neurips.cc/virtual/2024/poster/97707)**  
   A benchmark dataset aimed at multidimensional evaluation of spoken dialogue understanding and generation.
 - **[FD-Bench: A Full-Duplex Benchmarking Pipeline Designed for Full Duplex Spoken Dialogue Systems (Interspeech'25)](https://github.com/pengyizhou/FD-Bench)**  
