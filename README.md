@@ -24,15 +24,29 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 
 Research papers and research-grade systems that **rethink dialogue systems from a speech-first perspective**.
 
+### 2023
 - **[Generative Spoken Dialogue Language Modeling (TACL'23)](https://arxiv.org/abs/2203.16502)**  
    The first "textless" model able to generate audio samples of naturalistic spoken dialogues.
+
+### 2024
 - **[A Full-duplex Speech Dialogue Scheme Based On Large Language Models (NeurIPS'24)](https://arxiv.org/abs/2405.19487)**  
    A dialogue system capable of operating in a full-duplex manner, based on a large language model (LLM) carefully aligned to be aware of a perception module, a motor function module, and the concept of a simple finite state machine (called neural FSM) with two states.
-- **[Moshi: a speech-text foundation model for real-time dialogue](https://arxiv.org/abs/2410.00037)**  
+- **[Moshi: a speech-text foundation model for real-time dialogue (arXiv'24)](https://arxiv.org/abs/2410.00037)**  
   Moshi is a speech-text foundation model and full-duplex spoken dialogue framework.
 - **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents (EMNLP'24)](https://arxiv.org/abs/2409.15594v1)**  
   SyncLLM is a novel mechanism to integrate time information into Llama3-8b so that they run synchronously with the real-world clock.
-  
+- **[StreamingRAG: Real-time Contextual Retrieval and Generation Framework (HPDC'24)](https://arxiv.org/abs/2501.14101v1)**  
+  A novel RAG framework designed for streaming data.
+
+### 2025
+- **[Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM (ICML'25)](https://icml.cc/virtual/2025/poster/43854)**  
+  SyncLLM is a novel mechanism to integrate time information into Llama3-8b so that they run synchronously with the real-world clock.
+- **[FlexDuo: A Pluggable System for Enabling Full-Duplex Capabilities in Speech Dialogue Systemss (arXiv'25)](https://arxiv.org/abs/2502.13472)**  
+  A flexible full-duplex control module that decouples duplex control from spoken dialogue systems through a plug-and-play architectural design.
+- **[Can Speech LLMs Think while Listening? (arXiv'25)](https://arxiv.org/abs/2510.07497)**  
+  Inspired by the human behavior of “thinking while listening,” they propose methods to reduce the additional latency from reasoning by allowing the model to start reasoning before the user query has ended.
+- **[STITCH: Simultaneous Thinking and Talking with Chunked Reasoning for Spoken Language Models (arXiv'25)](https://arxiv.org/abs/2507.15375)**  
+  A novel generation method that alternates between the generation of unspoken reasoning chunks and spoken response chunks.
 
 ---
 
