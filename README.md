@@ -11,8 +11,9 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 
 ## Contents
 
-- [Toolkits](#toolkits)
 - [Papers](#papers)
+- [Benchmarks](#benchmarks)
+- [Toolkits](#toolkits)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
 - [License](#license)
@@ -25,6 +26,16 @@ Research papers and research-grade systems that **rethink dialogue systems from 
 
 - **[Moshi](https://github.com/kyutai-labs/moshi)**  
   Moshi is a speech-text foundation model and full-duplex spoken dialogue framework.
+
+---
+
+## Benchmarks
+
+Benchmarks and evaluation frameworks designed to measure **spoken dialogue systems beyond text-only metrics**.
+
+- **[FD-Bench](https://github.com/pengyizhou/FD-Bench)**  
+  FD-Bench is a comprehensive benchmarking pipeline specifically designed for evaluating Full-Duplex Spoken Dialogue Systems (FD-SDS).
+
 ---
 
 ## Toolkits
