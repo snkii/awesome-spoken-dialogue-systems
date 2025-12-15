@@ -44,6 +44,8 @@ Frameworks and libraries for building **real-world spoken dialogue systems**.
 
 - **[Pipecat](https://github.com/pipecat-ai/pipecat)**  
   Pipecat is an open-source Python framework for building real-time voice and multimodal conversational agents.
+- **[ESPnet-SDS](https://github.com/espnet/espnet/blob/master/egs2/TEMPLATE/sds1/README.md)**  
+  ESPnet-SDS is an open-source toolkit for building unified web interfaces for various cascaded and end-to-end (E2E) spoken dialogue systems, supporting real-time automated evaluation metrics, and human-in-the-loop feedback collection.
 
 ---
 
