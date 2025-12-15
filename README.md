@@ -26,9 +26,9 @@ Research papers and research-grade systems that **rethink dialogue systems from 
 
 - **[A Full-duplex Speech Dialogue Scheme Based On Large Language Models (NeurIPS'24)](https://arxiv.org/abs/2405.19487)**  
    A dialogue system capable of operating in a full-duplex manner, based on a large language model (LLM) carefully aligned to be aware of a perception module, a motor function module, and the concept of a simple finite state machine (called neural FSM) with two states.
-- **[Moshi](https://github.com/kyutai-labs/moshi)**  
+- **[Moshi: a speech-text foundation model for real-time dialogue](https://arxiv.org/abs/2410.00037)**  
   Moshi is a speech-text foundation model and full-duplex spoken dialogue framework.
-- **[SyncLLM](https://arxiv.org/abs/2409.15594v1)**  
+- **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents (EMNLP'24)](https://arxiv.org/abs/2409.15594v1)**  
   SyncLLM is a novel mechanism to integrate time information into Llama3-8b so that they run synchronously with the real-world clock.
   
 
