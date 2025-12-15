@@ -1,9 +1,5 @@
 # Awesome Spoken Dialogue Systems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> **The ultimate goal of spoken dialogue systems**
->
-> is to reach the point where the user genuinely asks:
->
 > **“Is this a computer, or a human?”**
 
 A curated list of **awesome spoken dialogue systems**, focusing on speech-first, real-time conversational agents.
