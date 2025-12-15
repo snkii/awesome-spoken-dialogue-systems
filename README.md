@@ -58,7 +58,7 @@ Research papers and research-grade systems that **rethink dialogue systems from 
   A novel generation method that alternates between the generation of unspoken reasoning chunks and spoken response chunks.
 - **[DIFFA: Large Language Diffusion Models Can Listen and Understand (AAAI'25)](https://arxiv.org/abs/2507.18452)**  
   The first diffusion-based large audio-language model designed to perform spoken language understanding.
-  - **[Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage (arXiv'25)](https://arxiv.org/abs/2510.02044)**  
+- **[Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage (arXiv'25)](https://arxiv.org/abs/2510.02044)**  
   A novel framework that reduces user-perceived latency by predicting tool queries in parallel with user speech, even before the user finishes speaking.
 
 ---
