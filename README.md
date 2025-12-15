@@ -1,2 +1,74 @@
-# awesome-spoken-dialogue-systems
-Awesome Spoken Dialogue-systems
+# Awesome Spoken Dialogue Systems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+The ultimate goal of spoken dialogue systems is to reach the point where the user genuinely asks:
+“Is this a computer, or a human?”
+
+A curated list of **awesome spoken dialogue systems**, focusing on speech-first, real-time conversational agents.
+This list covers research papers and toolkits that treat speech as the primary interface, not merely a wrapper around text-based dialogue.
+
+This is a curation, not a collection. Only resources that meaningfully advance spoken dialogue systems toward that goal are included.
+
+---
+
+## Contents
+
+- [Toolkits](#toolkits)
+- [Papers](#papers)
+- [Related Awesome Lists](#related-awesome-lists)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Toolkits
+
+Frameworks and libraries for building **real-world spoken dialogue systems**.
+
+- **[Pipecat](https://github.com/pipecat-ai/pipecat)**  
+  Modular Python framework for building real-time spoken and multimodal dialogue systems.  
+  Pipecat is awesome because it provides a **clean, composable pipeline abstraction** for streaming ASR, LLM-driven dialogue logic, and TTS, making low-latency voice agents easier to build, reason about, and maintain in production.
+
+---
+
+## Papers
+
+Research papers and research-grade systems that **rethink dialogue systems from a speech-first perspective**.
+
+- **[Moshi: A Speech-First Conversational Agent](https://github.com/moshi-ai/moshi)**  
+  Research system exploring real-time, speech-native dialogue where turn-taking, interruptions, and timing are modeled directly from audio.  
+  Moshi is awesome because it demonstrates how **continuous speech interaction**, rather than text transcripts, can be the core representation for conversational agents.
+
+---
+
+## Related Awesome Lists
+
+The following lists already cover adjacent areas well:
+
+- **[Awesome Speech Recognition](https://github.com/zzw922cn/awesome-speech-recognition)**
+- **[Awesome Conversational AI](https://github.com/steven2358/awesome-conversational-ai)**
+- **[Awesome NLP](https://github.com/keon/awesome-nlp)**
+
+---
+
+## Contributing
+
+Contributions are welcome, but please read carefully before submitting a pull request.
+
+**Guidelines:**
+
+- Only include resources you have **personally used, studied, or can strongly recommend**.
+- Each entry **must explain why it is awesome** and how it helps advance spoken dialogue systems toward the goal stated at the top of this list.
+- The scope is **spoken dialogue systems**.  
+  Pure ASR, TTS, or text-only chat frameworks should be excluded unless they fundamentally change spoken interaction.
+- Keep descriptions concise and end them with a period.
+- Maintain consistent formatting and valid Markdown.
+
+Respect differing opinions. If multiple contributors disagree on an inclusion, reconsider it carefully.
+
+---
+
+## License
+
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the authors have waived all copyright and related rights to this work.
