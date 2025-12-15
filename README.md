@@ -26,6 +26,9 @@ Research papers and research-grade systems that **rethink dialogue systems from 
 
 - **[Moshi](https://github.com/kyutai-labs/moshi)**  
   Moshi is a speech-text foundation model and full-duplex spoken dialogue framework.
+- **[SyncLLM](https://arxiv.org/abs/2409.15594v1)**  
+  SyncLLM is a novel mechanism to integrate time information into Llama3-8b so that they run synchronously with the real-world clock.
+  
 
 ---
 
