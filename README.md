@@ -24,10 +24,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 
 Research papers and research-grade systems that **rethink dialogue systems from a speech-first perspective**.
 
-- **[Moshi: A Speech-First Conversational Agent](https://github.com/kyutai-labs/moshi)**  
-  Research system exploring real-time, speech-native dialogue where turn-taking, interruptions, and timing are modeled directly from audio.  
-  Moshi is awesome because it demonstrates how **continuous speech interaction**, rather than text transcripts, can be the core representation for conversational agents.
-
+- **[Moshi](https://github.com/kyutai-labs/moshi)**  
+  Moshi is a speech-text foundation model and full-duplex spoken dialogue framework.
 ---
 
 ## Toolkits
@@ -35,8 +33,7 @@ Research papers and research-grade systems that **rethink dialogue systems from 
 Frameworks and libraries for building **real-world spoken dialogue systems**.
 
 - **[Pipecat](https://github.com/pipecat-ai/pipecat)**  
-  Modular Python framework for building real-time spoken and multimodal dialogue systems.  
-  Pipecat is awesome because it provides a **clean, composable pipeline abstraction** for streaming ASR, LLM-driven dialogue logic, and TTS, making low-latency voice agents easier to build, reason about, and maintain in production.
+  Pipecat is an open-source Python framework for building real-time voice and multimodal conversational agents.
 
 ---
 
