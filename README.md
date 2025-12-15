@@ -58,7 +58,8 @@ Contributions are welcome, but please read carefully before submitting a pull re
 - Only include resources you have **personally used, studied, or can strongly recommend**.
 - Each entry **must explain why it is awesome** and how it helps advance spoken dialogue systems toward the goal stated at the top of this list.
 - The scope is **spoken dialogue systems**.  
-  Pure ASR, TTS, or text-only chat frameworks should be excluded unless they fundamentally change spoken interaction.
+  Both **modular pipelines** and **end-to-end architectures** are welcome, as long as they are designed for spoken interaction.  
+  Pure ASR, TTS, or text-only chat frameworks should be excluded unless they meaningfully change how spoken dialogue is modeled or experienced.
 - Keep descriptions concise and end them with a period.
 - Maintain consistent formatting and valid Markdown.
 
