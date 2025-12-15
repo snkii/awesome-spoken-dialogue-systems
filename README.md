@@ -47,7 +47,9 @@ Research papers and research-grade systems that **rethink dialogue systems from 
   Inspired by the human behavior of “thinking while listening,” they propose methods to reduce the additional latency from reasoning by allowing the model to start reasoning before the user query has ended.
 - **[STITCH: Simultaneous Thinking and Talking with Chunked Reasoning for Spoken Language Models (arXiv'25)](https://arxiv.org/abs/2507.15375)**  
   A novel generation method that alternates between the generation of unspoken reasoning chunks and spoken response chunks.
-
+- **[DIFFA: Large Language Diffusion Models Can Listen and Understand (AAAI'25)](https://arxiv.org/abs/2507.18452)**  
+  The first diffusion-based large audio-language model designed to perform spoken language understanding.
+  
 ---
 
 ## Benchmarks
