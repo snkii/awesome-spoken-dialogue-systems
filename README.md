@@ -22,8 +22,6 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 
 ## Surveys
 
-Survey papers that comprehensively review spoken dialogue models from a speech-first perspective.
-
 - **[A Comprehensive Survey on Full-Duplex Communication: Current Solutions, Future Trends, and Open Issues (IEEE ComST'23)](https://ieeexplore.ieee.org/document/10258345)**
 - **[WavChat: A Survey of Spoken Dialogue Models (arXiv'24)](https://arxiv.org/abs/2411.13577)**
 - **[From Turn-Taking to Synchronous Dialogue: A Survey of Full-Duplex Spoken Language Models (arXiv'25)](https://arxiv.org/abs/2509.14515)**
@@ -32,8 +30,6 @@ Survey papers that comprehensively review spoken dialogue models from a speech-f
 ---
 
 ## Papers
-
-Research papers and research-grade systems that **rethink dialogue systems from a speech-first perspective**.
 
 ### 2023
 - **[Generative Spoken Dialogue Language Modeling (TACL'23)](https://arxiv.org/abs/2203.16502)**  
@@ -65,8 +61,6 @@ Research papers and research-grade systems that **rethink dialogue systems from 
 
 ## Benchmarks
 
-Benchmarks and evaluation frameworks designed to measure **spoken dialogue systems beyond text-only metrics**.
-
 - **[VoiceBench: Benchmarking LLM-Based Voice Assistants (arXiv'24)](https://arxiv.org/abs/2410.17196)**  
   The first benchmark designed to provide a multi-faceted evaluation of LLM-based voice assistants.
 - **[SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words (NeurIPS'24)](https://neurips.cc/virtual/2024/poster/97707)**  
@@ -80,8 +74,6 @@ Benchmarks and evaluation frameworks designed to measure **spoken dialogue syste
 
 ## Toolkits
 
-Frameworks and libraries for building **real-world spoken dialogue systems**.
-
 - **[Pipecat](https://github.com/pipecat-ai/pipecat)**  
   Pipecat is an open-source Python framework for building real-time voice and multimodal conversational agents.
 - **[ESPnet-SDS](https://github.com/espnet/espnet/blob/master/egs2/TEMPLATE/sds1/README.md)**  
@@ -90,8 +82,6 @@ Frameworks and libraries for building **real-world spoken dialogue systems**.
 ---
 
 ## Related Awesome Lists
-
-The following lists already cover adjacent areas well:
 
 - **[Awesome Dialogue System Papers](https://github.com/jaromirsalamon/Awesome-Dialogue-System-Papers)**
 - **[Awesome-Speech-Language-Model](https://github.com/ddlBoJack/Awesome-Speech-Language-Model)**
