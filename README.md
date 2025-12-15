@@ -46,8 +46,6 @@ Research papers and research-grade systems that **rethink dialogue systems from 
   Moshi is a speech-text foundation model and full-duplex spoken dialogue framework.
 - **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents (EMNLP'24)](https://arxiv.org/abs/2409.15594v1)**  
   SyncLLM is a novel mechanism to integrate time information into Llama3-8b so that they run synchronously with the real-world clock.
-- **[StreamingRAG: Real-time Contextual Retrieval and Generation Framework (HPDC'24)](https://arxiv.org/abs/2501.14101v1)**  
-  A novel RAG framework designed for streaming data.
 
 ### 2025
 - **[Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM (ICML'25)](https://icml.cc/virtual/2025/poster/43854)**  
@@ -60,7 +58,9 @@ Research papers and research-grade systems that **rethink dialogue systems from 
   A novel generation method that alternates between the generation of unspoken reasoning chunks and spoken response chunks.
 - **[DIFFA: Large Language Diffusion Models Can Listen and Understand (AAAI'25)](https://arxiv.org/abs/2507.18452)**  
   The first diffusion-based large audio-language model designed to perform spoken language understanding.
-  
+  - **[Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage (arXiv'25)](https://arxiv.org/abs/2510.02044)**  
+  A novel framework that reduces user-perceived latency by predicting tool queries in parallel with user speech, even before the user finishes speaking.
+
 ---
 
 ## Benchmarks
