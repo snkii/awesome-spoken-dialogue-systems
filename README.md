@@ -67,8 +67,10 @@ Research papers and research-grade systems that **rethink dialogue systems from 
 
 Benchmarks and evaluation frameworks designed to measure **spoken dialogue systems beyond text-only metrics**.
 
-- **[FD-Bench](https://github.com/pengyizhou/FD-Bench)**  
+- **[FD-Bench: A Full-Duplex Benchmarking Pipeline Designed for Full Duplex Spoken Dialogue Systems (Interspeech'25)](https://github.com/pengyizhou/FD-Bench)**  
   FD-Bench is a comprehensive benchmarking pipeline specifically designed for evaluating Full-Duplex Spoken Dialogue Systems (FD-SDS).
+- **[EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems (ASRU'25)](https://arxiv.org/abs/2508.17623)**  
+  A benchmark for assessing emotional coherence in dialogue systems.
 
 ---
 
