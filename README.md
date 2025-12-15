@@ -67,6 +67,8 @@ Research papers and research-grade systems that **rethink dialogue systems from 
 
 Benchmarks and evaluation frameworks designed to measure **spoken dialogue systems beyond text-only metrics**.
 
+- **[SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words (NeurIPS'24)](https://neurips.cc/virtual/2024/poster/97707)**  
+  A benchmark dataset aimed at multidimensional evaluation of spoken dialogue understanding and generation.
 - **[FD-Bench: A Full-Duplex Benchmarking Pipeline Designed for Full Duplex Spoken Dialogue Systems (Interspeech'25)](https://github.com/pengyizhou/FD-Bench)**  
   FD-Bench is a comprehensive benchmarking pipeline specifically designed for evaluating Full-Duplex Spoken Dialogue Systems (FD-SDS).
 - **[EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems (ASRU'25)](https://arxiv.org/abs/2508.17623)**  
