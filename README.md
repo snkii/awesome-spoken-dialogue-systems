@@ -44,9 +44,8 @@ Research papers and research-grade systems that **rethink dialogue systems from 
 
 The following lists already cover adjacent areas well:
 
-- **[Awesome Speech Recognition](https://github.com/zzw922cn/awesome-speech-recognition)**
-- **[Awesome Conversational AI](https://github.com/steven2358/awesome-conversational-ai)**
-- **[Awesome NLP](https://github.com/keon/awesome-nlp)**
+- **[Awesome Dialogue System Papers](https://github.com/jaromirsalamon/Awesome-Dialogue-System-Papers)**
+- **[Awesome-Speech-Language-Model](https://github.com/ddlBoJack/Awesome-Speech-Language-Model)**
 
 ---
 
