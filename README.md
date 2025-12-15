@@ -10,13 +10,24 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 ---
 
 ## Contents
-
+- [Surveys](#surveys)
 - [Papers](#papers)
 - [Benchmarks](#benchmarks)
 - [Toolkits](#toolkits)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
 - [License](#license)
+
+---
+
+## Surveys
+
+Survey papers that comprehensively review spoken dialogue models from a speech-first perspective.
+
+- **[A Comprehensive Survey on Full-Duplex Communication: Current Solutions, Future Trends, and Open Issues (IEEE ComST'23)](https://ieeexplore.ieee.org/document/10258345)**
+- **[WavChat: A Survey of Spoken Dialogue Models (arXiv'24)](https://arxiv.org/abs/2411.13577)**
+- **[From Turn-Taking to Synchronous Dialogue: A Survey of Full-Duplex Spoken Language Models (arXiv'25)](https://arxiv.org/abs/2509.14515)**
+- **[A Survey of Recent Advances on Turn-taking Modeling in Spoken Dialogue Systems (IWSDS'25)](https://aclanthology.org/2025.iwsds-1.27/)**
 
 ---
 
