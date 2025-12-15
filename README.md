@@ -24,6 +24,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 
 Research papers and research-grade systems that **rethink dialogue systems from a speech-first perspective**.
 
+- **[Generative Spoken Dialogue Language Modeling (TACL'23)](https://arxiv.org/abs/2203.16502)**  
+   The first "textless" model able to generate audio samples of naturalistic spoken dialogues.
 - **[A Full-duplex Speech Dialogue Scheme Based On Large Language Models (NeurIPS'24)](https://arxiv.org/abs/2405.19487)**  
    A dialogue system capable of operating in a full-duplex manner, based on a large language model (LLM) carefully aligned to be aware of a perception module, a motor function module, and the concept of a simple finite state machine (called neural FSM) with two states.
 - **[Moshi: a speech-text foundation model for real-time dialogue](https://arxiv.org/abs/2410.00037)**  
