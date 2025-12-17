@@ -83,12 +83,11 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 
 ## Related Awesome Lists
 
-### LLM-based SDS or Audio Understanding
+### LLM-based SDS
 - **[Awesome Dialogue System Papers](https://github.com/jaromirsalamon/Awesome-Dialogue-System-Papers)**
 - **[Awesome-Speech-Language-Model](https://github.com/ddlBoJack/Awesome-Speech-Language-Model)**
 - **[Awesome-SpeechLM-Survey](https://github.com/dreamtheater123/Awesome-SpeechLM-Survey)**
 - **[Speech Trident - Awesome Speech LM](https://github.com/ga642381/speech-trident)**
-- **[Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM)**
 - **[AWESOME-Dialogue](https://github.com/thuiar/AWESOME-Dialogue)**
 
 ### Speech Recognition (ASR)
@@ -101,6 +100,9 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 
 ###  Speaker Diarization
 - **[Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)**
+
+### Audio Understanding
+- **[Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM)**
 
 ---
 
