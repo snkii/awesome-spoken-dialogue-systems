@@ -85,24 +85,24 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 
 ### LLM-based SDS
 - **[Awesome Dialogue System Papers](https://github.com/jaromirsalamon/Awesome-Dialogue-System-Papers)** ![GitHub stars](https://img.shields.io/github/stars/jaromirsalamon/Awesome-Dialogue-System-Papers?style=social)
-- **[Awesome-Speech-Language-Model](https://github.com/ddlBoJack/Awesome-Speech-Language-Model)**
-- **[Awesome-SpeechLM-Survey](https://github.com/dreamtheater123/Awesome-SpeechLM-Survey)**
-- **[Speech Trident - Awesome Speech LM](https://github.com/ga642381/speech-trident)**
-- **[AWESOME-Dialogue](https://github.com/thuiar/AWESOME-Dialogue)**
+- **[Awesome-Speech-Language-Model](https://github.com/ddlBoJack/Awesome-Speech-Language-Model)** ![GitHub stars](https://img.shields.io/github/stars/ddlBoJack/Awesome-Speech-Language-Model?style=social)
+- **[Awesome-SpeechLM-Survey](https://github.com/dreamtheater123/Awesome-SpeechLM-Survey)** ![GitHub stars](https://img.shields.io/github/stars/dreamtheater123/Awesome-SpeechLM-Survey?style=social)
+- **[Speech Trident - Awesome Speech LM](https://github.com/ga642381/speech-trident)** ![GitHub stars](https://img.shields.io/github/stars/ga642381/speech-trident?style=social)
+- **[AWESOME-Dialogue](https://github.com/thuiar/AWESOME-Dialogue)** ![GitHub stars](https://img.shields.io/github/stars/thuiar/AWESOME-Dialogue?style=social)
 
 ### Speech Recognition (ASR)
-- **[awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)**
-- **[Awesome Korean Speech Recognition](https://github.com/rtzr/Awesome-Korean-Speech-Recognition)**
+- **[awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)** ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social)
+- **[Awesome Korean Speech Recognition](https://github.com/rtzr/Awesome-Korean-Speech-Recognition)** ![GitHub stars](https://img.shields.io/github/stars/rtzr/Awesome-Korean-Speech-Recognition?style=social)
 
 ### Speech Generation (TTS)
-- **[Awesome-Speech-Generation](https://github.com/kuan2jiu99/Awesome-Speech-Generation)**
-- **[Awesome-Text-to-Speech-TTS](https://github.com/TouchSky-Lab/Awesome-Text-to-Speech-TTS)**
+- **[Awesome-Speech-Generation](https://github.com/kuan2jiu99/Awesome-Speech-Generation)** ![GitHub stars](https://img.shields.io/github/stars/kuan2jiu99/Awesome-Speech-Generation?style=social)
+- **[Awesome-Text-to-Speech-TTS](https://github.com/TouchSky-Lab/Awesome-Text-to-Speech-TTS)** ![GitHub stars](https://img.shields.io/github/stars/TouchSky-Lab/Awesome-Text-to-Speech-TTS?style=social)
 
-###  Speaker Diarization
-- **[Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)**
+### Speaker Diarization
+- **[Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)** ![GitHub stars](https://img.shields.io/github/stars/wq2012/awesome-diarization?style=social)
 
 ### Audio Understanding
-- **[Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM)**
+- **[Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM)** ![GitHub stars](https://img.shields.io/github/stars/AudioLLMs/Awesome-Audio-LLM?style=social)
 
 ---
 
