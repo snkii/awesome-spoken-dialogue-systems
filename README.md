@@ -1,4 +1,4 @@
-# Awesome Spoken Dialogue Systems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Spoken Dialogue Systems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contribution](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/snkii/awesome-spoken-dialogue-systems)
 
 > **“Is this a computer, or a human?”**
 
@@ -83,12 +83,24 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 
 ## Related Awesome Lists
 
+### LLM-based SDS or Audio Understanding
 - **[Awesome Dialogue System Papers](https://github.com/jaromirsalamon/Awesome-Dialogue-System-Papers)**
 - **[Awesome-Speech-Language-Model](https://github.com/ddlBoJack/Awesome-Speech-Language-Model)**
 - **[Awesome-SpeechLM-Survey](https://github.com/dreamtheater123/Awesome-SpeechLM-Survey)**
 - **[Speech Trident - Awesome Speech LM](https://github.com/ga642381/speech-trident)**
 - **[Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM)**
 - **[AWESOME-Dialogue](https://github.com/thuiar/AWESOME-Dialogue)**
+
+### Speech Recognition (ASR)
+- **[awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)**
+- **[Awesome Korean Speech Recognition](https://github.com/rtzr/Awesome-Korean-Speech-Recognition)**
+
+### Speech Generation (TTS)
+- **[Awesome-Speech-Generation](https://github.com/kuan2jiu99/Awesome-Speech-Generation)**
+- **[Awesome-Text-to-Speech-TTS](https://github.com/TouchSky-Lab/Awesome-Text-to-Speech-TTS)**
+
+###  Speaker Diarization
+- **[Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)**
 
 ---
 
