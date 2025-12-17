@@ -1,4 +1,4 @@
-# Awesome Spoken Dialogue Systems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contribution](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/snkii/awesome-spoken-dialogue-systems)
+# Awesome Spoken Dialogue Systems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contribution](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/snkii/awesome-spoken-dialogue-systems?tab=readme-ov-file#contributing)
 
 > **“Is this a computer, or a human?”**
 
