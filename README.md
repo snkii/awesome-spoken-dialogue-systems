@@ -46,6 +46,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 - **[Language Model Can Listen While Speaking
  (AAAI'25)](https://ojs.aaai.org/index.php/AAAI/article/view/34665)**  
    An end-to-end system equipped with both listening and speaking channels.
+- **[Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models (EMNLP'24)](https://arxiv.org/abs/2409.15594v1)**  
+  They adapt existing LLMs to duplex models so that they can listen to users while generating output and dynamically adjust themselves to provide instant feedback.
 
 ### 2025
 - **[Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM (ICML'25)](https://icml.cc/virtual/2025/poster/43854)**  
