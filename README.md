@@ -43,7 +43,7 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   Moshi is a speech-text foundation model and full-duplex spoken dialogue framework.
 - **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents (EMNLP'24)](https://arxiv.org/abs/2409.15594v1)**  
   SyncLLM is a novel mechanism to integrate time information into Llama3-8b so that they run synchronously with the real-world clock.
-  - **[Language Model Can Listen While Speaking
+- **[Language Model Can Listen While Speaking
  (AAAI'25)](https://ojs.aaai.org/index.php/AAAI/article/view/34665)**  
    An end-to-end system equipped with both listening and speaking channels.
 
@@ -60,13 +60,13 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   The first diffusion-based large audio-language model designed to perform spoken language understanding.
 - **[Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage (arXiv'25)](https://arxiv.org/abs/2510.02044)**  
   A novel framework that reduces user-perceived latency by predicting tool queries in parallel with user speech, even before the user finishes speaking.
-  - **[VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction (NuerIPS'25)](https://arxiv.org/abs/2409.15594v1)**  
+- **[VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction (NuerIPS'25)](https://arxiv.org/abs/2409.15594v1)**  
    They proposed a carefully designed multi-stage training methodology that progressively trains LLM to understand both visual and speech information, ultimately enabling fluent vision and speech interaction.
-  - **[VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model (NuerIPS'25)](https://arxiv.org/abs/2505.03739)**  
+- **[VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model (NuerIPS'25)](https://arxiv.org/abs/2505.03739)**  
     The first multi-modal large language model capable of generating audio output during the first forward pass, enabling real-time conversational capabilities with minimal latency.
 
 ### Toward natural spoken dialogue modeling (_e.g._ backchanelling, filler)
-  - **[Predicting Turn-Taking and Backchannel in Human-Machine Conversations Using Linguistic, Acoustic, and Visual Signals (ACL'25)](https://arxiv.org/abs/2505.12654)**  
+- **[Predicting Turn-Taking and Backchannel in Human-Machine Conversations Using Linguistic, Acoustic, and Visual Signals (ACL'25)](https://arxiv.org/abs/2505.12654)**  
      They addressed the gap in predicting turn-taking and backchannel actions in human-machine conversations using multi-modal signals. They also proposed an automatic data collection pipeline that allows us to collect and annotate over 210 hours of human conversation videos.
 
 ---
