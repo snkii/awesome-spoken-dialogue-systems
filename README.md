@@ -68,6 +68,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
     The first multi-modal large language model capable of generating audio output during the first forward pass, enabling real-time conversational capabilities with minimal latency.
 
 ### Toward natural spoken dialogue modeling (_e.g._ backchanelling, filler)
+- **Attentive listening system with backchanneling, response generation and flexible turn-taking (SIGDIAL'17)](https://aclanthology.org/W17-5516/)**  
+     This paper addresses key components of an attentive listening system which encourages users to talk smoothly.
 - **[Predicting Turn-Taking and Backchannel in Human-Machine Conversations Using Linguistic, Acoustic, and Visual Signals (ACL'25)](https://arxiv.org/abs/2505.12654)**  
      They addressed the gap in predicting turn-taking and backchannel actions in human-machine conversations using multi-modal signals. They also proposed an automatic data collection pipeline that allows us to collect and annotate over 210 hours of human conversation videos.
 
