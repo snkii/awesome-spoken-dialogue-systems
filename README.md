@@ -81,7 +81,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   This paper addresses key components of an attentive listening system which encourages users to talk smoothly.
 - **[Predicting Turn-Taking and Backchannel in Human-Machine Conversations Using Linguistic, Acoustic, and Visual Signals (ACL'25)](https://arxiv.org/abs/2505.12654)**  
   They addressed the gap in predicting turn-taking and backchannel actions in human-machine conversations using multi-modal signals. They also proposed an automatic data collection pipeline that allows us to collect and annotate over 210 hours of human conversation videos.
-
+- **[SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model (Interspeech'25)](https://arxiv.org/abs/2505.15670)**  
+  They propose a novel duplex speech to speech (S2S) architecture featuring continuous user inputs and codec agent outputs with channel fusion that directly models simultaneous user and agent streams.
 
 ---
 
