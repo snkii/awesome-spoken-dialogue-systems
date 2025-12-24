@@ -85,6 +85,12 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   FD-Bench is a comprehensive benchmarking pipeline specifically designed for evaluating Full-Duplex Spoken Dialogue Systems (FD-SDS).
 - **[EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems (ASRU'25)](https://arxiv.org/abs/2508.17623)**  
   A benchmark for assessing emotional coherence in dialogue systems.
+- **[Full-Duplex-Bench v1.5: Evaluating Overlap Handling for Full-Duplex Speech Models (arXiv'25)](https://arxiv.org/abs/2507.23159)**  
+  They introduce Full-Duplex-Bench v1.5, a modular, fully automated benchmark that simulates four overlap scenarios: user interruption, listener backchannel, side conversation, and ambient speech.
+- **[Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner (arXiv'25)](https://arxiv.org/abs/2510.07838)**  
+  They introduce Full-Duplex-Bench-v2 (FDB-v2), a streaming framework that integrates with an automated examiner that enforces staged goals under two pacing setups (Fast vs. Slow). 
+- **[ICASSP2026 HumDial Challenge](https://github.com/ASLP-lab/Hum-Dial?tab=readme-ov-file)**  
+  The official GitHub repository for the ICASSP2026 HumDial Challenge. 
 
 ---
 
