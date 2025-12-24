@@ -93,6 +93,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   FD-Bench is a comprehensive benchmarking pipeline specifically designed for evaluating Full-Duplex Spoken Dialogue Systems (FD-SDS).
 - **[EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems (ASRU'25)](https://arxiv.org/abs/2508.17623)**  
   A benchmark for assessing emotional coherence in dialogue systems.
+- **[Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities (ASRU'25)](https://arxiv.org/abs/2503.04721)**  
+  They introduce Full-Duplex-Bench, a benchmark that systematically evaluates key interactive behaviors: pause handling, backchanneling, turn-taking, and interruption management. 
 - **[Full-Duplex-Bench v1.5: Evaluating Overlap Handling for Full-Duplex Speech Models (arXiv'25)](https://arxiv.org/abs/2507.23159)**  
   They introduce Full-Duplex-Bench v1.5, a modular, fully automated benchmark that simulates four overlap scenarios: user interruption, listener backchannel, side conversation, and ambient speech.
 - **[Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner (arXiv'25)](https://arxiv.org/abs/2510.07838)**  
