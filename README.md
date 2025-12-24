@@ -48,6 +48,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
    An end-to-end system equipped with both listening and speaking channels.
 - **[Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models (EMNLP'24)](https://arxiv.org/abs/2409.15594v1)**  
   They adapt existing LLMs to duplex models so that they can listen to users while generating output and dynamically adjust themselves to provide instant feedback.
+- **[SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation (arXiv'24)](https://arxiv.org/abs/2411.18138)**  
+  A codec-free, full-duplex speech understanding and generation model capable of simultaneously listening to its own generated speech and background sounds while speaking.
 
 ### 2025
 - **[Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM (ICML'25)](https://icml.cc/virtual/2025/poster/43854)**  
