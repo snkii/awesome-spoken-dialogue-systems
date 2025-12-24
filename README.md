@@ -66,6 +66,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
    They proposed a carefully designed multi-stage training methodology that progressively trains LLM to understand both visual and speech information, ultimately enabling fluent vision and speech interaction.
 - **[VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model (NuerIPS'25)](https://arxiv.org/abs/2505.03739)**  
     The first multi-modal large language model capable of generating audio output during the first forward pass, enabling real-time conversational capabilities with minimal latency.
+  - **[From Turn-Taking to Synchronous Dialogue: A Survey of Full-Duplex Spoken Language Models (arXiv'25)](https://arxiv.org/abs/2505.03739)**  
+    This survey comprehensively reviews Full-Duplex Spoken Language Models (FD-SLMs) in the LLM era.
 
 ### Toward natural spoken dialogue modeling (_e.g._ backchanelling, filler)
 - **[Attentive listening system with backchanneling, response generation and flexible turn-taking (SIGDIAL'17)](https://aclanthology.org/W17-5516/)**  
