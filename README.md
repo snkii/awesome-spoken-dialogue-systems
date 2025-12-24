@@ -63,19 +63,20 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 - **[Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage (arXiv'25)](https://arxiv.org/abs/2510.02044)**  
   A novel framework that reduces user-perceived latency by predicting tool queries in parallel with user speech, even before the user finishes speaking.
 - **[VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction (NuerIPS'25)](https://arxiv.org/abs/2409.15594v1)**  
-   They proposed a carefully designed multi-stage training methodology that progressively trains LLM to understand both visual and speech information, ultimately enabling fluent vision and speech interaction.
+  They proposed a carefully designed multi-stage training methodology that progressively trains LLM to understand both visual and speech information, ultimately enabling fluent vision and speech interaction.
 - **[VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model (NuerIPS'25)](https://arxiv.org/abs/2505.03739)**  
-    The first multi-modal large language model capable of generating audio output during the first forward pass, enabling real-time conversational capabilities with minimal latency.
-  - **[From Turn-Taking to Synchronous Dialogue: A Survey of Full-Duplex Spoken Language Models (arXiv'25)](https://arxiv.org/abs/2505.03739)**  
-    This survey comprehensively reviews Full-Duplex Spoken Language Models (FD-SLMs) in the LLM era.
+  The first multi-modal large language model capable of generating audio output during the first forward pass, enabling real-time conversational capabilities with minimal latency.
+- **[From Turn-Taking to Synchronous Dialogue: A Survey of Full-Duplex Spoken Language Models (arXiv'25)](https://arxiv.org/abs/2505.03739)**  
+  This survey comprehensively reviews Full-Duplex Spoken Language Models (FD-SLMs) in the LLM era.
+- **[NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction (ICML'25)](https://arxiv.org/abs/2506.00975)**  
+  They systematically explore the use of dual-channel speech data in the context of modern large language models, and introduce a novel generative modeling paradigm, Next-Token-Pair Prediction (NTPP), to enable speaker-independent dual-channel spoken dialogue learning using decoder-only architectures for the first time.
 
 ### Toward natural spoken dialogue modeling (_e.g._ backchanelling, filler)
 - **[Attentive listening system with backchanneling, response generation and flexible turn-taking (SIGDIAL'17)](https://aclanthology.org/W17-5516/)**  
-     This paper addresses key components of an attentive listening system which encourages users to talk smoothly.
+  This paper addresses key components of an attentive listening system which encourages users to talk smoothly.
 - **[Predicting Turn-Taking and Backchannel in Human-Machine Conversations Using Linguistic, Acoustic, and Visual Signals (ACL'25)](https://arxiv.org/abs/2505.12654)**  
-     They addressed the gap in predicting turn-taking and backchannel actions in human-machine conversations using multi-modal signals. They also proposed an automatic data collection pipeline that allows us to collect and annotate over 210 hours of human conversation videos.
-- **[NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction (ICML'25)](https://arxiv.org/abs/2506.00975)**  
-     They systematically explore the use of dual-channel speech data in the context of modern large language models, and introduce a novel generative modeling paradigm, Next-Token-Pair Prediction (NTPP), to enable speaker-independent dual-channel spoken dialogue learning using decoder-only architectures for the first time.
+  They addressed the gap in predicting turn-taking and backchannel actions in human-machine conversations using multi-modal signals. They also proposed an automatic data collection pipeline that allows us to collect and annotate over 210 hours of human conversation videos.
+
 
 ---
 
