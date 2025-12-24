@@ -26,6 +26,7 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 - **[WavChat: A Survey of Spoken Dialogue Models (arXiv'24)](https://arxiv.org/abs/2411.13577)**
 - **[From Turn-Taking to Synchronous Dialogue: A Survey of Full-Duplex Spoken Language Models (arXiv'25)](https://arxiv.org/abs/2509.14515)**
 - **[A Survey of Recent Advances on Turn-taking Modeling in Spoken Dialogue Systems (IWSDS'25)](https://aclanthology.org/2025.iwsds-1.27/)**
+- **[On The Landscape of Spoken Language Models: A Comprehensive Survey (arXiv'25)](https://arxiv.org/abs/2504.08528)**
 - **[Recent Advances in Speech Language Models: A Survey (ACL'25)](https://aclanthology.org/2025.acl-long.682/)**
 
 ---
