@@ -77,7 +77,7 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   They systematically explore the use of dual-channel speech data in the context of modern large language models, and introduce a novel generative modeling paradigm, Next-Token-Pair Prediction (NTPP), to enable speaker-independent dual-channel spoken dialogue learning using decoder-only architectures for the first time.
 
 ### Reasoning (Streaming Thinking)
-- **[Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking (CoRR'25)](https://arxiv.org/abs/2403.09629)**  
+- **[Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking (CoRR'24)](https://arxiv.org/abs/2403.09629)**  
   A generalization of STaR in which LMs learn to generate rationales at each token to explain future text, improving their predictions.
 - **[StreamingThinker: Large Language Models Can Think While Reading (arXiv'25)](https://arxiv.org/abs/2510.17238)**  
   They first design a streaming thinking paradigm for LLMs, where reasoning unfolds in the order of input and further adjusts its depth once reading is complete. 
