@@ -77,6 +77,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   This survey comprehensively reviews Full-Duplex Spoken Language Models (FD-SLMs) in the LLM era.
 - **[NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction (ICML'25)](https://arxiv.org/abs/2506.00975)**  
   They systematically explore the use of dual-channel speech data in the context of modern large language models, and introduce a novel generative modeling paradigm, Next-Token-Pair Prediction (NTPP), to enable speaker-independent dual-channel spoken dialogue learning using decoder-only architectures for the first time.
+- **[SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model (Interspeech'25)](https://arxiv.org/abs/2505.15670)**  
+  They propose a novel duplex speech to speech (S2S) architecture featuring continuous user inputs and codec agent outputs with channel fusion that directly models simultaneous user and agent streams.
 
 ### Reasoning (Streaming Thinking)
 - **[Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking (CoRR'24)](https://arxiv.org/abs/2403.09629)**  
@@ -90,8 +92,6 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   This paper addresses key components of an attentive listening system which encourages users to talk smoothly.
 - **[Predicting Turn-Taking and Backchannel in Human-Machine Conversations Using Linguistic, Acoustic, and Visual Signals (ACL'25)](https://arxiv.org/abs/2505.12654)**  
   They addressed the gap in predicting turn-taking and backchannel actions in human-machine conversations using multi-modal signals. They also proposed an automatic data collection pipeline that allows us to collect and annotate over 210 hours of human conversation videos.
-- **[SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model (Interspeech'25)](https://arxiv.org/abs/2505.15670)**  
-  They propose a novel duplex speech to speech (S2S) architecture featuring continuous user inputs and codec agent outputs with channel fusion that directly models simultaneous user and agent streams.
 - **[FillerSpeech: Towards Human-Like Text-to-Speech Synthesis with Filler Insertion and Filler Style Control (EMNLP'25)](https://aclanthology.org/2025.emnlp-main.1730/)**  
   A novel speech synthesis framework that enables natural filler insertion and control over filler style.
   
