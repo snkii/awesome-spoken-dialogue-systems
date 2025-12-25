@@ -79,6 +79,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   They systematically explore the use of dual-channel speech data in the context of modern large language models, and introduce a novel generative modeling paradigm, Next-Token-Pair Prediction (NTPP), to enable speaker-independent dual-channel spoken dialogue learning using decoder-only architectures for the first time.
 - **[SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model (Interspeech'25)](https://arxiv.org/abs/2505.15670)**  
   They propose a novel duplex speech to speech (S2S) architecture featuring continuous user inputs and codec agent outputs with channel fusion that directly models simultaneous user and agent streams.
+- **[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation (ACL'25)](https://aclanthology.org/2025.acl-long.709/)**  
+  They introduce a novel End-to-End GPT-based model OmniFlatten for full-duplex conversation, capable of effectively modeling the complex behaviors inherent to natural conversations with low latency.
 
 ### Reasoning (Streaming Thinking)
 - **[Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking (CoRR'24)](https://arxiv.org/abs/2403.09629)**  
