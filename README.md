@@ -87,8 +87,9 @@ This is a curation, not a collection. Only resources that meaningfully advance s
 - **[Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking (CoRR'24)](https://arxiv.org/abs/2403.09629)**  
   A generalization of STaR in which LMs learn to generate rationales at each token to explain future text, improving their predictions.
 - **[StreamingThinker: Large Language Models Can Think While Reading (arXiv'25)](https://arxiv.org/abs/2510.17238)**  
-  They first design a streaming thinking paradigm for LLMs, where reasoning unfolds in the order of input and further adjusts its depth once reading is complete. 
-
+  They first design a streaming thinking paradigm for LLMs, where reasoning unfolds in the order of input and further adjusts its depth once reading is complete.
+- **[  Chronological Thinking in Full-Duplex Spoken Dialogue Language Models (arXiv'25)](https://arxiv.org/abs/2510.05150)**  
+  A on-the-fly conversational thinking mechanism that aims to improve response quality in full-duplex SDLMs.
 
 ### Toward natural spoken dialogue modeling (_e.g._ backchanelling, filler)
 - **[Attentive listening system with backchanneling, response generation and flexible turn-taking (SIGDIAL'17)](https://aclanthology.org/W17-5516/)**  
