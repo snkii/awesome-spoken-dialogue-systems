@@ -53,7 +53,9 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   They adapt existing LLMs to duplex models so that they can listen to users while generating output and dynamically adjust themselves to provide instant feedback.
 - **[SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation (arXiv'24)](https://arxiv.org/abs/2411.18138)**  
   A codec-free, full-duplex speech understanding and generation model capable of simultaneously listening to its own generated speech and background sounds while speaking.
-
+- **[GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot (arXiv'24)](https://arxiv.org/abs/2412.02612)**  
+  An intelligent and human-like end-to-end spoken chatbot. It supports both Chinese and English, engages in real-time voice conversations, and varies vocal nuances such as emotion, intonation, speech rate, and dialect according to user instructions.
+  
 ### 2025
 - **[Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM (ICML'25)](https://icml.cc/virtual/2025/poster/43854)**  
   The speech input and output modalities can be easily connected to a textual LLM while keeping the LLM's parameters frozen throughout the training process.
