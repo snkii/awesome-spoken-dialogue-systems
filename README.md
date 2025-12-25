@@ -46,8 +46,7 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   Moshi is a speech-text foundation model and full-duplex spoken dialogue framework.
 - **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents (EMNLP'24)](https://arxiv.org/abs/2409.15594v1)**  
   SyncLLM is a novel mechanism to integrate time information into Llama3-8b so that they run synchronously with the real-world clock.
-- **[Language Model Can Listen While Speaking
- (AAAI'25)](https://ojs.aaai.org/index.php/AAAI/article/view/34665)**  
+- **[Language Model Can Listen While Speaking (AAAI'25)](https://ojs.aaai.org/index.php/AAAI/article/view/34665)**  
    An end-to-end system equipped with both listening and speaking channels.
 - **[Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models (EMNLP'24)](https://arxiv.org/abs/2409.15594v1)**  
   They adapt existing LLMs to duplex models so that they can listen to users while generating output and dynamically adjust themselves to provide instant feedback.
@@ -81,6 +80,8 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   They propose a novel duplex speech to speech (S2S) architecture featuring continuous user inputs and codec agent outputs with channel fusion that directly models simultaneous user and agent streams.
 - **[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation (ACL'25)](https://aclanthology.org/2025.acl-long.709/)**  
   They introduce a novel End-to-End GPT-based model OmniFlatten for full-duplex conversation, capable of effectively modeling the complex behaviors inherent to natural conversations with low latency.
+- **[MinMo: A Multimodal Large Language Model for Seamless Voice Interaction (arXiv'25)](https://arxiv.org/abs/2501.06282)**  
+  A Multimodal Large Language Model with approximately 8B parameters for seamless voice interaction. We address the main limitations of prior aligned multimodal models.
 
 ### Reasoning (Streaming Thinking)
 - **[Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking (CoRR'24)](https://arxiv.org/abs/2403.09629)**  
