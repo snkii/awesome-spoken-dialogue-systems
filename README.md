@@ -98,7 +98,10 @@ This is a curation, not a collection. Only resources that meaningfully advance s
   They addressed the gap in predicting turn-taking and backchannel actions in human-machine conversations using multi-modal signals. They also proposed an automatic data collection pipeline that allows us to collect and annotate over 210 hours of human conversation videos.
 - **[FillerSpeech: Towards Human-Like Text-to-Speech Synthesis with Filler Insertion and Filler Style Control (EMNLP'25)](https://aclanthology.org/2025.emnlp-main.1730/)**  
   A novel speech synthesis framework that enables natural filler insertion and control over filler style.
-  
+
+### Codec
+- **[NanoCodec: Towards High-Quality Ultra Fast Speech LLM Inference (Interspeech'25)](https://arxiv.org/abs/2508.05835)**  
+ They introduced a audio codec that achieves high-quality compression at just 12.5 frames per second (FPS). NanoCodec outperforms related works across various bitrate ranges, establishing a new benchmark for low-latency and efficient Speech LLM training and inference.
 
 ---
 
